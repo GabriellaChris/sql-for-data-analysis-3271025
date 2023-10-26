@@ -1,3 +1,4 @@
+/*test*/
 SELECT LastName,
   OrderId
 FROM Customer
